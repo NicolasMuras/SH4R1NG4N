@@ -1,0 +1,1 @@
+https://tiendapcshop.com/productos/?mpage=3 | div;class;item item-rounded item-product box-rounded p-0 | container.div.a["title"]
