@@ -16,5 +16,6 @@ PROXIMAMENTE:
 - Funciones extra: malwares injectados en archivos disfrazados en base a intereses de personas.
 
 INSTALACION:
+Asegurarse de tener instalado chrome para utilizar el webscraper (script_izanami).
 Compilar y ejecutar.
-Funcionando en linux.
+Funcionando en linux
