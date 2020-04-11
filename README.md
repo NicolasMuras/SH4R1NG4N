@@ -19,7 +19,7 @@ Asegurarse de tener instalado chrome para utilizar el webscraper (script_izanami
 Compilar y ejecutar.
 Funcionando en linux
 
-=============================================== ESTRUCTURA DE SHARINGAN ======================================================
+========================== ESTRUCTURA DE SHARINGAN ==========================
 GENERAL:
 * Sistema de barras de progreso (0-100%) que muestre la situacion de los procesos en tiempo real.
 * Boton para matar el proceso seleccionado.
@@ -45,7 +45,7 @@ GENERAL:
 * Sistema de control de camaras de vigilancia.
 * Zoom al hacer click en la imagen de perfil.
 * Limpiar informacion extra de la GUI (codigo irrelevante)
-==============================================================================================================================
+==========================
 IZANAMI:
 * Hacer que descarge la foto de perfil en grande y pequeño.
 * Hacer que cuando un escaneo termine se guarde en la DB.
@@ -53,7 +53,7 @@ IZANAMI:
 	- React: Descarga las 30 publicaciones mas recientes.
 	- Family: Busca en sus amigos personas con el mismo apellido, descarga en HTML la pagina principal y la de info de cada uno.
 	- Multimedia: Descarga los HTML de las fotos y videos, con el fin de encontrar etiquetados y procesar luego la info de comentarios.
-==============================================================================================================================
+==========================
 IZANAGI:
 * Terminar con las expresiones regulares.
 * Procesar los modulos de IZANAMI, para extraer datos:
@@ -62,4 +62,4 @@ IZANAGI:
 	- Multimedia: Saca de las fotos y videos a personas etiquetadas, analiza los comentarios con palabras clave.
 	- Friends: Determina las personas que mas reaccionan mediante React/Family, determina relaciones de familia o amistad,
 	  descarga el HTML de la pagina principal/info de cada amigo y familiar, luego agrega las entradas y su info a la base de datos. 
-==============================================================================================================================
+==========================
