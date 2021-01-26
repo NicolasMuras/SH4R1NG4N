@@ -4,6 +4,8 @@ In progress...
 A video commenting the characteristics of the program to some friends (IN SPANISH):
 https://youtu.be/Eqqy3Z9a-W4
 
+![alt text](https://github.com/NicolasMuras/SH4R1NG4N/blob/master/Images/hud_sharingan.jpg?raw=true)
+
 SH4R1NG4N Is a platform designed to work with information and databases.
 Count with scripts that will help us to:
 - Recolect facebook profiles information through web scraping.
