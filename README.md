@@ -4,7 +4,7 @@ En construccion...
 Video comentando un poco las caracteristicas del programa a unos amigos:
 https://youtu.be/Eqqy3Z9a-W4
 
-![alt text](https://github.com/NicolasMuras/SH4R1NG4N/blob/main/Images/hud_sharingan.jpg?raw=true)
+![alt text](https://github.com/NicolasMuras/SH4R1NG4N/blob/master/Images/hud_sharingan.jpg?raw=true)
 
 SH4R1NG4N Es una plataforma diseñada para trabajar con informacion y bases de datos.
 Cuenta con scripts que nos ayudaran a:
