@@ -1,5 +1,5 @@
 # SH4R1NG4N
-In working...
+In progress...
 
 A video commenting the characteristics of the program to some friends (IN SPANISH):
 https://youtu.be/Eqqy3Z9a-W4
