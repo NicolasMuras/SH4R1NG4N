@@ -21,6 +21,7 @@ Son requeridas las siguientes dependencias para ejecutar el proyecto:
 <li><a href="https://www.python.org/" rel="nofollow">Python 3+</a>.</li>
 <li><a href="https://docs.docker.com/get-docker/" rel="nofollow">PyQt5</a>.</li>
 <li><a href="https://docs.docker.com/compose/install/" rel="nofollow">mysql.connector</a>.</li>
+<li><a href="https://docs.docker.com/compose/install/" rel="nofollow">BeautifulSoup</a>.</li>
 </ul>
 
 PROXIMAMENTE:
