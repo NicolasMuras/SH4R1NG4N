@@ -19,9 +19,10 @@ Cuenta con scripts que nos ayudaran a:
 Son requeridas las siguientes dependencias para ejecutar el proyecto:
 <ul>
 <li><a href="https://www.python.org/" rel="nofollow">Python 3+</a>.</li>
-<li><a href="https://docs.docker.com/get-docker/" rel="nofollow">PyQt5</a>.</li>
-<li><a href="https://docs.docker.com/compose/install/" rel="nofollow">mysql.connector</a>.</li>
-<li><a href="https://docs.docker.com/compose/install/" rel="nofollow">BeautifulSoup</a>.</li>
+<li><a href="" rel="nofollow">PyQt5</a>.</li>
+<li><a href="" rel="nofollow">mysql.connector</a>.</li>
+<li><a href="https://pypi.org/project/beautifulsoup4/" rel="nofollow">BeautifulSoup4</a>.</li>
+<li><a href="https://pypi.org/project/selenium/" rel="nofollow">Selenium</a>.</li>
 </ul>
 
 PROXIMAMENTE:
