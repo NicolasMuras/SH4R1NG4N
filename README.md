@@ -23,15 +23,15 @@ Son requeridas las siguientes dependencias para ejecutar el proyecto:
 <li><a href="" rel="nofollow">mysql.connector</a>.</li>
 <li><a href="https://pypi.org/project/beautifulsoup4/" rel="nofollow">BeautifulSoup4</a>.</li>
 <li><a href="https://pypi.org/project/selenium/" rel="nofollow">Selenium</a>.</li>
+<li><a href="" rel="nofollow">MySQL</a>.</li>
 </ul>
 
-PROXIMAMENTE:
-- Mapa satellital donde poder visualizar los puntos de interes recolectados.
+La aplicación esta diseñada en Linux, especificamente Kali Linux 2019.4, por lo que podria cambiar visualmente si se ejecuta en otro sistema operativo.
 
 INSTALACION:
 Asegurarse de tener instalado chrome para utilizar el webscraper (script_izanami).
+Instalar dependencias.
 Compilar y ejecutar.
-Funcionando en linux
 
 ESTRUCTURA DE SHARINGAN
 GENERAL:
