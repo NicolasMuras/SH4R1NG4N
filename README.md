@@ -1,6 +1,6 @@
 # SH4R1NG4N
 
-Este proyecto es antiguo y comenzara un proceso de refactoring apartir del 7 de febrero.
+<a>Este proyecto es antiguo y comenzara un proceso de refactoring apartir del 7 de febrero.</a>
 Video comentando un poco las caracteristicas del programa a unos amigos:
 https://youtu.be/Eqqy3Z9a-W4
 
